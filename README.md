@@ -7,4 +7,6 @@ npm install
 npm link
 # 可以在任何一个目录下使用了
 sanbox -s <srcPath> -d <dataPath>
+# 帮助文档
+sanbox --help
 ```
